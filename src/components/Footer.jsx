@@ -10,7 +10,7 @@ const Footer = () => {
         </div>
         <div className='w-full'>
             <div className='flex space-x-5 justify-center'>
-                <a href='/about'>About</a>
+                <a href='/about'>About Me</a>
                 <a href='#'>Privacy Policy</a>
                 <a href='#'>Licensing</a>
                 <a href='/contact'>Contact</a>
