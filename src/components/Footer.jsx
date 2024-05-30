@@ -5,7 +5,7 @@ const Footer = () => {
     <div className='flex justify-between mt-8'>
         <div className='w-full'>
             <p className='text-center'>
-                @2024 Subhajit Manna <span> All Rights Reserved</span>
+                @2024 Subhajit Manna | Contact: +918910443107 <span> All Rights Reserved</span>
             </p>
         </div>
         <div className='w-full'>

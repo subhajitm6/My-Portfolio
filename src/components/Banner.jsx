@@ -36,13 +36,13 @@ const Banner = () => {
                 <p className='mt-4'>I am a versatile developer skilled in front-end, back-end, and full-stack development. I integrate user-friendly interfaces with robust server-side logic, creating comprehensive, efficient, and dynamic applications end-to-end.
                 </p>
                 <div className='mt-4 flex gap-5'>
-                    <a href="" className='hover:text-orange-500'>
+                    <a href="https://www.facebook.com/sj.manna.7" className='hover:text-orange-500'>
                         <i class="fa-brands text-2xl fa-facebook"></i>
                     </a>
-                    <a href="" className='hover:text-orange-500'>
+                    <a href="https://www.instagram.com/imsubhajit.m/" className='hover:text-orange-500'>
                         <i class="fa-brands text-2xl fa-instagram"></i>
                     </a>
-                    <a href="" className='hover:text-orange-500'>
+                    <a href="https://www.linkedin.com/in/subhajit-manna-1608651a9/" className='hover:text-orange-500'>
                         <i class="fa-brands text-2xl fa-linkedin"></i>
                     </a>
                     <a href="https://github.com/subhajitm6" className='hover:text-orange-500'>
